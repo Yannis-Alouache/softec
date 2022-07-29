@@ -1,2 +1,2 @@
 # softec
-E-Commerce website
+E-Commerce website built with react | bootstrap | sanity
